@@ -16,9 +16,9 @@ A modern, responsive portfolio template built specifically for cybersecurity pro
 
 ![Image](https://github.com/user-attachments/assets/faabb4d6-e21f-4b46-9959-342c3d00b40f)
 
-## 🚀 Live Demo
+## 🚀 Video Demo
 
-Check out the live demo at [https://hak3r.getcyber.me](https://hak3r.getcyber.me)
+https://github.com/user-attachments/assets/d1416b79-ef4a-4b08-9887-6003180a8667
 
 ## ✨ Features
 
