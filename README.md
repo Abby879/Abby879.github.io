@@ -40,6 +40,6 @@ https://abby879.github.io
 - GitHub: https://github.com/Abby879
 - Email: raghuramanabhishek@gmail.com
 
-- ## Acknowledgment
+## Acknowledgment
 
 This portfolio was built from the open-source HAK3R React template and was fully customized with my own design, content, projects, and deployment setup.
